@@ -1,0 +1,10 @@
+{
+  "name": "01-function-arguments",
+  "version": "0.0.0",
+  "description": "01-function-arguments",
+  "main": "app.js",
+  "author": {
+    "name": "stu",
+    "email": ""
+  }
+}
